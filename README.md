@@ -1,0 +1,1 @@
+Aplicativo simples de Cronometro desenvolvido em React Native basico.
